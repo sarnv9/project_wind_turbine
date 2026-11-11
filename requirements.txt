@@ -1,0 +1,15 @@
+# Data Manipulation & EDA
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+imbalanced-learn
+joblib
+
+# API Deployment
+fastapi
+uvicorn
+pydantic
